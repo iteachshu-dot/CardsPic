@@ -1,0 +1,26 @@
+[
+  {
+    "name": "أجناد",
+    "cover_url": "https://yourdomain.com/covers/ajnad.jpg"
+  },
+  {
+    "name": "أصداء",
+    "cover_url": "https://yourdomain.com/covers/asdaa.jpg"
+  },
+  {
+    "name": "ألبيان",
+    "cover_url": "https://yourdomain.com/covers/albayan.jpg"
+  },
+  {
+    "name": "ألأنصار",
+    "cover_url": "https://yourdomain.com/covers/ansar.jpg"
+  },
+  {
+    "name": "ألذكرى",
+    "cover_url": "https://yourdomain.com/covers/thikra.jpg"
+  },
+  {
+    "name": "Foreign",
+    "cover_url": "https://yourdomain.com/covers/foreign.jpg"
+  }
+]
